@@ -1,0 +1,5 @@
+Human_arm
+Human_hand
+Human_body
+Human_head
+Human_leg
