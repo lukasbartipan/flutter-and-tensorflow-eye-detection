@@ -1,6 +1,6 @@
 # tflite_flutter_app
 
-Bachelor Flutter application.
+Bachelors Thesis project - Flutter application with machine learning.
 
 ## Getting Started
 
